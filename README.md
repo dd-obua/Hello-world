@@ -16,7 +16,7 @@
 
 - GitHub: [@githubhandle](https://github.com/dd-obua/)
 - Twitter: [@twitterhandle](https://twitter.com/DenisDanielObu1)
-- LinkedIn: [LinkedIn]()
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/denis-daniel-obua-99024a229/)
 
 ## 🤝 Contributing
 
